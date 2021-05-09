@@ -66,7 +66,7 @@
       content: "";
       transform: translate(-50%, -50%);
       /* Intentionally not using CSS logical properties. */
-      border-top: solid 3px #2494db;
+      border-top: solid 3px #fcd11d;
     }
 
 .primary-nav__button-toggle .icon--menu-toggle:after {
@@ -112,7 +112,7 @@
 
         body:not(.is-always-mobile-nav) .primary-nav__button-toggle:focus .icon--menu-toggle {
           border: solid 1px transparent;
-          background-color: #2494db
+          background-color: #fcd11d
         }
 
           body:not(.is-always-mobile-nav) .primary-nav__button-toggle:focus .icon--menu-toggle:after {

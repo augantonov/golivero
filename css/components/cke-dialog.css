@@ -233,8 +233,8 @@
       .cke_dialog .cke_dialog_footer_buttons .acke_dialog_ui_button:hover,
       .cke_dialog .cke_dialog_footer_buttons .acke_dialog_ui_button:focus {
         text-decoration: none;
-        color: #2494db;
-        border-color: #2494db;
+        color: #fcd11d;
+        border-color: #fcd11d;
       }
 .cke_dialog .cke_dialog_footer_buttons a:focus, .cke_dialog .cke_dialog_footer_buttons .acke_dialog_ui_button:focus {
         outline: 2px solid  #53b0eb;
@@ -250,7 +250,7 @@
         .cke_dialog .cke_dialog_footer_buttons .acke_dialog_ui_button.cke_dialog_ui_button_ok:hover,
         .cke_dialog .cke_dialog_footer_buttons .acke_dialog_ui_button.cke_dialog_ui_button_ok:focus {
           color: #fff;
-          background-color: #2494db;
+          background-color: #fcd11d;
         }
 [dir="rtl"] .cke_dialog .cke_dialog_ui_input_select select,
     [dir="rtl"] .cke_dialog .cke_dialog_ui_input_select .cke_dialog_ui_input_select {

@@ -62,13 +62,13 @@
   }
 
 .dropbutton-action a:hover {
-      background-color: #2494db;
+      background-color: #fcd11d;
     }
 
 .dropbutton-action a:focus {
       outline: 2px solid  #53b0eb;
       outline-offset: 2px;
-      background-color: #2494db;
+      background-color: #fcd11d;
       box-shadow: var(--shadow-focusable-with-outline);
     }
 
@@ -100,7 +100,7 @@
 }
 
 .dropbutton-toggle:hover {
-    background-color: #2494db;
+    background-color: #fcd11d;
   }
 
 .dropbutton-toggle button {
@@ -113,7 +113,7 @@
 .dropbutton-toggle button:focus {
       outline: 2px solid  #53b0eb;
       outline-offset: 2px;
-      background-color: #2494db;
+      background-color: #fcd11d;
       box-shadow: var(--shadow-focusable-with-outline);
     }
 

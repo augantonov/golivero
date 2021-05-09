@@ -134,7 +134,7 @@
       height: 0;
       content: "";
       /* Intentionally not using CSS logical properties. */
-      border-top: solid 3px #2494db;
+      border-top: solid 3px #fcd11d;
     }
 
 .primary-nav__menu-link--button.primary-nav__menu-link--has-children:after {
@@ -188,7 +188,7 @@
     transform: scaleX(0);
     transform-origin: left;
     /* Intentionally not using CSS logical properties. */
-    border-top: solid 5px #2494db;
+    border-top: solid 5px #fcd11d;
   }
 
 .primary-nav__menu-link-inner:hover,
@@ -270,11 +270,11 @@
 }
 
 [dir="ltr"] .primary-nav__menu--level-2 {
-  border-left: solid 18px #2494db;
+  border-left: solid 18px #fcd11d;
 }
 
 [dir="rtl"] .primary-nav__menu--level-2 {
-  border-right: solid 18px #2494db;
+  border-right: solid 18px #fcd11d;
 }
 
 .primary-nav__menu--level-2 {

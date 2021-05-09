@@ -177,7 +177,7 @@
       transform: translate(-50%, -1.25rem);
       opacity: 0;
       /* Intentionally not using CSS logical properties. */
-      border-top: solid #2494db 9px;
+      border-top: solid #fcd11d 9px;
       border-right: solid 1px transparent; /* Transparent borders useful for Windows High Contrast mode. */
       border-bottom: solid 1px transparent;
       border-left: solid 1px transparent;
@@ -199,7 +199,7 @@
         transform: translateX(-50%);
         /* Intentionally not using CSS logical properties. */
         border-right: solid 10px transparent;
-        border-bottom: solid 10px #2494db;
+        border-bottom: solid 10px #fcd11d;
         border-left: solid 10px transparent;
       }
 

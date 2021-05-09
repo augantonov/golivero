@@ -110,7 +110,7 @@ html:not(.js) .tabs__tab,
 }
   }
 .tabs__link:focus {
-  border-color: #2494db;
+  border-color: #fcd11d;
   outline: none;
 }
 .tabs__link:hover {
@@ -128,10 +128,10 @@ html:not(.js) .tabs__tab,
     right: -1px
 }
 [dir="ltr"] .tabs__link.is-active:after {
-    border-left: 6px solid #2494db
+    border-left: 6px solid #fcd11d
 }
 [dir="rtl"] .tabs__link.is-active:after {
-    border-right: 6px solid #2494db
+    border-right: 6px solid #fcd11d
 }
 .tabs__link.is-active:after {
     position: absolute;
@@ -155,7 +155,7 @@ html:not(.js) .tabs__tab,
     .tabs__link.is-active:after {
       width: 100%;
       height: auto;
-      border-top: 6px solid #2494db;
+      border-top: 6px solid #fcd11d;
     }
   }
 [dir="ltr"] .tabs__trigger {
@@ -186,7 +186,7 @@ html:not(.js) .tabs__tab,
   }
 .tabs__trigger:focus {
     position: relative;
-    border-color: #2494db;
+    border-color: #fcd11d;
     outline: none;
   }
 @media (min-width: 43.75rem) {
@@ -215,7 +215,7 @@ html:not(.js) .tabs__trigger {
     display: block;
     width: 100%;
     transition: transform 0.2s, opacity 0.2s, top 0.2s;
-    border-top: solid 2px #2494db
+    border-top: solid 2px #fcd11d
   }
 .tabs__trigger-icon > span:nth-child(1) {
       top: 0;
